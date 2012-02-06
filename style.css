@@ -1,0 +1,238 @@
+@charset utf-8;
+/*
+
+Theme Name: WordPress Theme Framework
+Theme URI: https://github.com/cristiano-acosta/wordpressthemeframework
+Author: Cristiano Acosta
+Author URI: https://github.com/cristiano-acosta
+Description: Wordpress Framework has been helping Wordpress developers cut back on their development time and improve their Wordpress powered websites since 2008.
+Version: 0.1.0
+
+*/
+* {margin: 0; padding: 0; border: 0;}
+@font-face {
+    font-family: 'Pinda';
+    src: url('ttf/pinda-webfont.eot');
+    src: url('ttf/pinda-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ttf/pinda-webfont.woff') format('woff'),
+         url('ttf/pinda-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Pristina';
+    src: url('ttf/pristina-webfont.eot');
+    src: url('ttf/pristina-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ttf/pristina-webfont.woff') format('woff'),
+         url('ttf/pristina-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body { font-family: Vrinda, Geneva, Arial, Helvetica, sans-serif; font-size: 12px;}
+/*TAGS*/
+
+a { text-decoration: none; color: #000; }
+
+
+/* HEADER styles */
+header {  }
+	#header { background: url('imgs/bg.header.png') repeat-x ; height: 65px; padding: 20px 0 20px 0; transform: rotate(-1deg); -ms-transform: rotate(-1deg); /* IE 9 */ -webkit-transform: rotate(-1deg); /* Safari and Chrome */ -o-transform: rotate(-1deg); /* Opera */ -moz-transform: rotate(-1deg); /* Firefox */ margin: 0 0 5px 0; 	}
+	nav { }
+	nav.primary {
+		
+	}
+	nav.footer {
+		
+	}
+	#widget-header {
+		
+	}
+	#widget-alert {
+		
+	}
+/* index.php if ( is_home() ) */
+section { }
+#section {}
+#title { height: 312px; margin: 0 0 20px 0; }
+#title h1 { font-family: 'Pinda'; font-size: 100px; }
+#title h2 { font-family: 'Pristina'; font-size:28px;}
+#page-2 { position: relative; top:-60px;  }
+#page-7 { position: relative; top:-60px; }
+
+#article { background: url('imgs/bg.article.png') repeat-x ;   }
+#excerpt { margin: 20px 0 20px 0;}
+		.featured-thumbnail {
+			
+		}
+		.post-content {
+			
+		}
+			.pagination {
+				
+			}
+	.post-meta {
+		
+	}
+	.post-navigation {
+		
+	}
+
+#comments {
+	
+}
+	li.comment {
+		
+	}
+		.odd {
+			
+		}
+		.even {
+			
+		}
+		.author-comment {
+			
+		}
+		.comment-text {
+			
+		}
+		.comment-meta {
+			
+		}
+			p.gravatar {
+				
+			}
+		.waiting-for-approval {
+			
+		}
+	#trackbacks {
+		
+	}
+		li.trackback {
+			
+		}
+	p#no-comments {
+		
+	}
+	#comments-form {
+		
+	}
+		#respond {
+			
+		}
+		.cancel-comment-reply {
+			
+		}
+
+.page {
+	
+}
+	#page-content {
+		
+	}
+	#page-meta {
+		
+	}
+
+.post {
+	
+}
+	.postContent {
+		
+	}
+	.post-excerpt {
+		
+	}
+
+nav.oldernewer {
+	
+}
+	.older {
+		
+	}
+	.newer {
+		
+	}
+
+.search {
+	
+}
+
+.author {
+	
+}
+#recent-author-posts {
+	
+}
+#recent-author-comments {
+	
+}
+
+#error404 {
+	
+}
+
+#sidebar {
+	
+}
+	#widget-sidebar {
+		
+	}
+		#sidebar-search {
+			
+		}
+		#sidebar-nav {
+			
+		}
+		#sidebar-archives {
+			
+		}
+		#sidebar-meta {
+			
+		}
+		.widget {
+			
+		}
+
+#footer {
+	
+}
+	#widget-footer {
+		
+	}
+	#footer-nav {
+		
+	}
+	
+.no-results {
+	
+}
+
+.widget-area {
+	
+}
+
+.none { /* this class is used to hid the skip to content link at the beginning of the document for accessibility */
+	display: none;
+}
+.clear {
+	clear: both;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.aligncenter {
+	text-align: center;
+}
+.alignleft {
+	text-align: left;
+}
+.alignright {
+	text-align: right;
+}
+
+/* Always remember to compress your live stylesheet and keep an uncompressed backup */

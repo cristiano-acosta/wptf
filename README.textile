@@ -1,0 +1,57 @@
+h1. WPTF (WordPress Theme Framework)
+
+WordPress 3.3.1 Theme designed to be a meta framework that allows you to include new taxonomies, custon post types, and related fields allowing use as CMS.
+Using 960gs grid css columns with 12,16,24 and to adapt the adaptive gs 960 on various platforms.
+Using latest version of jQuery, jquery ui and other plugins for editing a variety of effects.
+Implementing a framework for css3 html5 standard and construction of animations.
+Compatible with Adobe Edge 4.
+
+
+
+
+h2. More Information
+
+http://cristiano-acosta.heroku.com
+
+h2. Installing the Application
+
+Download the theme, install it on your wordpress and start developing themes in wordpress fantastic!
+
+h2. Getting Started
+
+Download the theme, install it on your wordpress and start developing themes in wordpress fantastic!
+
+
+h2. Documentation and Support
+
+Send a Issues in this git!
+
+h4. Issues
+
+
+h2. Similar Projects
+
+https://github.com/boldperspective/Whiteboard-Framework
+
+
+h2. Contributing
+
+If you make improvements to this application, please share with others.
+
+* Fork the project on GitHub.
+* Make your feature addition or bug fix.
+* Commit with Git.
+* Send the author a pull request.
+
+If you add functionality to this application, create an alternative implementation, or build an application that is similar, please contact me and I'll add a note to the README so that others can find your work.
+
+h2. Credits
+
+Doca7 Ti e Marketing
+Cristiano Acosta: http://www.facebook.com/cristiano.m.acosta
+Frederico Aranha: http://www.facebook.com/fredericodeazevedo
+Pedro Venancio: http://www.facebook.com/profile.php?id=100003155340390
+
+h2. License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Licença Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Chega de Banana</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="chegadebanana.com.br" property="cc:attributionName" rel="cc:attributionURL">Frederico Aranha</a> é licenciado sob uma <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Licença Creative Commons Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported</a>.
